@@ -178,7 +178,6 @@ D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\Razor\_Imports.
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\BlazorApp1.RazorTargetAssemblyInfo.cache
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\BlazorApp1.csproj.CopyComplete
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\blazor\unlinked.output
-D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\5Wren_0AxnrkT1-nnHY2cHX-m9i78YgqOxPU9LTnV2Q=.hash
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -230,13 +229,11 @@ D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\zNP4a
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\WpN6h7PK0AcK7YCrrFlah9C8Zey26gY5erZkpHCthjA=.hash
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\TbEgX0D4oje4rkazrIKW1_TYAw2pXWlbrqw9slyPwwQ=.hash
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorApp1.dll.gz
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -357,3 +354,6 @@ D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\staticwebassets
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\staticwebassets\BlazorApp1.StaticWebAssets.xml
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\BlazorApp1.dll
 D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\BlazorApp1.pdb
+D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\amYgZ3sZo1VRkGobzU5uJ08yI11-aSfRAgGO4rCcBzA=.hash
+D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\lEgoMPgrfXvrcXIvsj9NPaQhzdWdEahx6jsNCAQzfjo=.hash
+D:\GitRepo\Blazor\BlazorApp1\BlazorApp1\obj\Debug\netstandard2.1\integrity\GJvF17eumHg0p_35gCUVtTtgg5G7OQo0x8W9eEikkLQ=.hash
